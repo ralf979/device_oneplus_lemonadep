@@ -55,7 +55,8 @@ TARGET_OTA_ASSERT_DEVICE := lemonadep,OnePlus9Pro
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    PixelSetupWizard9PStringsOverlay
 
 # PowerShare
 PRODUCT_PACKAGES += \
