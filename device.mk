@@ -56,7 +56,8 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget \
-    PixelSetupWizard9PStringsOverlay
+    PixelSetupWizard9PStringsOverlay \
+    OPlus9ProWifiOverlay
 
 # PowerShare
 PRODUCT_PACKAGES += \
