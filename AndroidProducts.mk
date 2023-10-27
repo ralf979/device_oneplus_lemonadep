@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_lemonadep.mk
+    $(LOCAL_DIR)/blackiron_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_lemonadep-user \
-    stag_lemonadep-userdebug \
-    stag_lemonadep-eng
+    blackiron_lemonadep-user \
+    blackiron_lemonadep-userdebug \
+    blackiron_lemonadep-eng
